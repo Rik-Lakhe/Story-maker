@@ -1,0 +1,1 @@
+var noun=prompt("noun = ").toLowerCase(),adjective=prompt("adjective = ").toLowerCase(),verb=prompt("verb = ").toLowerCase();alert("Finished constructing ! ");var sentence="There once was a "+adjective+" programmer who wanted to use JS to "+verb+" the "+noun;document.write("<h1>"+sentence+"</h1>");
